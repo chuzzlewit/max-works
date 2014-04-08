@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /max-works
+exclude: ['README.md']
